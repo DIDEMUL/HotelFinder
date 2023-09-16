@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HotelFinder.API</name>
+    </assembly>
+    <members>
+        <member name="M:HotelFinder.API.Controllers.HotelsController.Get">
+            <summary>
+            Get All Hotel
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
